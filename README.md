@@ -1,5 +1,4 @@
 # About-GDSC-BULC
-# BULC
 
 <h1 align="center">Hi 👋, We are Bahira University Lahore Campus</h1>
 <h3 align="center">Bahria University is a Federally Chartered Public Sector University. The principal seat of Bahria University is at Islamabad and campuses are at Islamabad, Karachi and Lahore. Bahria University was established by the Pakistan Navy in 2000, and since then it has steadily grown into one of the leading higher education institutions in Pakistan. It plays a major role in grooming future leaders who can make a positive difference to the world around them. Bahria is a comprehensive university having multidisciplinary programs that includes Health Sciences, Engineering Sciences, Computer Sciences, Management Sciences, Social Sciences, Law, Earth and Environmental Sciences, Psychology and Maritime Studies.</h3>
